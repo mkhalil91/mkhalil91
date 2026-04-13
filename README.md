@@ -22,7 +22,7 @@ I build models that help cities move smarter — from predicting travel behaviou
 ```text
 🎓  Ph.D.         →  Transportation Engineering, UBC (2025)
 📍  Location      →  British Columbia, Canada
-📄  Publications  →  30+ peer-reviewed journal articles & conference papers
+📄  Publications  →  35+ peer-reviewed journal articles & conference papers
 ```
 
 ---
