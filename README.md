@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]([https://scholar.google.com](https://scholar.google.ca/citations?user=oF2AjMwAAAAJ&hl=en))
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]((https://scholar.google.ca/citations?user=oF2AjMwAAAAJ&hl=en))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mak91/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]([https://www.researchgate.net](https://www.researchgate.net/profile/Mohamad-Khalil-11?ev=hdr_xprf))
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)]((https://www.researchgate.net/profile/Mohamad-Khalil-11?ev=hdr_xprf))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mak.91@outlook.com)
 
 </div>
