@@ -115,16 +115,6 @@ Multi-year, multi-station analysis using satellite imagery and ground observatio
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkhalil91&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkhalil91&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
 
 ## 📚 Selected Publications
 
